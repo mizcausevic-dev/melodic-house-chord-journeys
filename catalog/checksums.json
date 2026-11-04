@@ -1,0 +1,430 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1937,
+      "sha256": "cd943be8d313c38eeb890f4a180f28dd20d960e0bb2eefabb1393be674851037"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 246169,
+      "sha256": "f76211ba47ba5563ae080046d1a65188eae8f076d3c4b8ac3f515990623e8146"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2228828,
+      "sha256": "623646e664ee901875ad813d9e055ea8965b28fc9fcb689a544893b72b958bb9"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 408,
+      "sha256": "09b290d5e09489c9d237d65fdf155f4e3bb4ec028dce9fe00d220f00216990e4"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 248875,
+      "sha256": "190853649481c4eda34398349b297d4edfb400535bcb64cc56d7215f77e3d4b6"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 740,
+      "sha256": "5205c3fcc6231eaa7d9391a6d48e12a2150969a7a27474f1c1a678efef399b5b"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 740,
+      "sha256": "5205c3fcc6231eaa7d9391a6d48e12a2150969a7a27474f1c1a678efef399b5b"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2172,
+      "sha256": "eaf009a57452854156085051e37f9e0394c912a4463f4f240ea72ae410885073"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 22582,
+      "sha256": "3b3fb9f29f3e27ee5f20ed0b2eb43a8c520da3b947fa94d8524be67187208d71"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 92888,
+      "sha256": "3dac407cee36236171823a80d94577136074f939ebccefb37d4ee464b0e7e24e"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1786,
+      "sha256": "2de14c6b526db893013494c58773bd414ebf8594f2dbb57e86698473734b182c"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2374,
+      "sha256": "2b27eb81025819a6c755ba90a96a6bdc8eb7f0fb7d10268dfbd1f262cdc7799d"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 800,
+      "sha256": "30bb09b2c39ca7ccce207cff9ac5c0d93116db28e9141e96ac29f9e278bd6fc5"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 946,
+      "sha256": "6d1c2646d1f130b07bb10e862310306f99a3e2782d656d66a19d88fa9e703b33"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 395,
+      "sha256": "4de70a0244cb7194bdc3c3bbde0c87f84932cd5fd96f194a096e7e164c157b8f"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 391,
+      "sha256": "bd3f91aacd0ed2257269a7df925b5c05b5bf54e4bfc62a2da2f566800817ebf5"
+    },
+    {
+      "path": "clips/mh01-chord-progression-01.mid",
+      "bytes": 174,
+      "sha256": "d0f16d5a25a8188a7e8ef34f019695e0583bce59686519aaf60f14a7c8938f8e"
+    },
+    {
+      "path": "clips/mh01-chord-progression-02.mid",
+      "bytes": 174,
+      "sha256": "f0b1c97eaf8b868e2c64d4efd6af6e9624887d653e66062319019847f6f2d53d"
+    },
+    {
+      "path": "clips/mh01-chord-progression-03.mid",
+      "bytes": 174,
+      "sha256": "4e5977187ba0289cdfdedd707119733d2064c817c643e7726165a530fe5704be"
+    },
+    {
+      "path": "clips/mh01-chord-progression-04.mid",
+      "bytes": 174,
+      "sha256": "fec78c25ec720838cd19b9a2693873a9064fcee2b9922f1941eb813160398e3c"
+    },
+    {
+      "path": "clips/mh02-chord-progression-01.mid",
+      "bytes": 174,
+      "sha256": "8e600f069f23f1f572af83889315f11210743a675c24c2564ed5859aed8d7a6e"
+    },
+    {
+      "path": "clips/mh02-chord-progression-02.mid",
+      "bytes": 174,
+      "sha256": "599a019f4eb88786b156b2c5b7acd3fe4678625f231c6444c5314f14ae0a0f41"
+    },
+    {
+      "path": "clips/mh02-chord-progression-03.mid",
+      "bytes": 174,
+      "sha256": "a0e52bac4570a1139232c845602014116bd9217f77b541ad93de15ab91b4cda1"
+    },
+    {
+      "path": "clips/mh02-chord-progression-04.mid",
+      "bytes": 174,
+      "sha256": "f97dbd9fcfc22ca1f9843c85f51a447ab611bf3c8eff5b6774e54343847a0199"
+    },
+    {
+      "path": "clips/mh03-chord-progression-01.mid",
+      "bytes": 174,
+      "sha256": "f2c2485ffeb01dda1abde4eef3bb93061d632adf2965f884619f4c77e1b03e8c"
+    },
+    {
+      "path": "clips/mh03-chord-progression-02.mid",
+      "bytes": 174,
+      "sha256": "81b91d589cbb28272c0acc92b9b22593f3d5de94b9aff035ff7ccef77186aac3"
+    },
+    {
+      "path": "clips/mh03-chord-progression-03.mid",
+      "bytes": 174,
+      "sha256": "2aaa2c1c4117a693bf3df4fdd7ee66d45ec5a6898f29621624078abcfaf4af02"
+    },
+    {
+      "path": "clips/mh03-chord-progression-04.mid",
+      "bytes": 174,
+      "sha256": "5832a99d96f2839e92d05ed34643d69037e349de8f3df11c6ae4ca8d8e9a8aea"
+    },
+    {
+      "path": "clips/mh04-chord-progression-01.mid",
+      "bytes": 174,
+      "sha256": "a23749f93ad355882b015072b9ea7e1b0af0c5979dbc68fd7d1281dc518230d6"
+    },
+    {
+      "path": "clips/mh04-chord-progression-02.mid",
+      "bytes": 174,
+      "sha256": "4a1c25b4608ca2af3267d2e2f3a86031d546bf373da103d5f80b05ff610c6875"
+    },
+    {
+      "path": "clips/mh04-chord-progression-03.mid",
+      "bytes": 174,
+      "sha256": "9180cbb555329bb08e7d3e53b8d15931bf68a1b84713eb0818021bc24bf75597"
+    },
+    {
+      "path": "clips/mh04-chord-progression-04.mid",
+      "bytes": 174,
+      "sha256": "4882cb7141bc5263b80b583923da50b5a1138a71544341f6d67c395890012a99"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 448,
+      "sha256": "f76326cb4518041028f7562c77859b403fd086b4c63b671d2ebb729dc9f34b77"
+    },
+    {
+      "path": "downloads/melodic-house-chord-journeys-midi.zip",
+      "bytes": 28724,
+      "sha256": "a3e5137f4018668070e9fb82da3d1816fb54fef7bf30c2f52b660fc2efc1bfe7"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 224592,
+      "sha256": "4cad426fd9ba5f054374696a9f6cc67a126778d7c8a5657669aa2f97490e9a0c"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 2278942,
+      "sha256": "f6c8b972514eeabd41ad17b1f9e61c655e2c71920aa44abea5355f1407953c7b"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 87,
+      "sha256": "e420e1dfed936dcf8e448a769c4aea94719e81a1f226cffc7fcdaa1ddb4496f4"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 629,
+      "sha256": "7c400d17e252465b1fbdd0b390cf0ab75bcb00417ec7c8210faa74a189aff362"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9619,
+      "sha256": "99ad48a53a04d424d35dc837ba599fe86eada53195624eee6c5d48bb392e4e9a"
+    },
+    {
+      "path": "midi/mh01-first-arc/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "5935a13a6e8c321629bbfcb3eddd378b972b00f775f56b47259eb9cfb80e7159"
+    },
+    {
+      "path": "midi/mh01-first-arc/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b0f3aa49d75924a52312b777fbb5353a43f9a983dcf3d13ccee67623d9f95fa1"
+    },
+    {
+      "path": "midi/mh01-first-arc/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/mh01-first-arc/mh01-first-arc-combined.mid",
+      "bytes": 5790,
+      "sha256": "f03fed7e9c1a4d283b2f1cb2e65e38b4c0b7a77c35ff2409f52d2fd1398f95ea"
+    },
+    {
+      "path": "midi/mh01-first-arc/principal_motif.mid",
+      "bytes": 730,
+      "sha256": "970ecb315ec9f96c0dea19aa5ff04961684757647666ac7bcade8fd183b1990d"
+    },
+    {
+      "path": "midi/mh01-first-arc/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "665aa6af29a6354ca4127838fe6c25b19fdb5def3dcab76b45464da634439941"
+    },
+    {
+      "path": "midi/mh01-first-arc/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7e202070aad2da5a67d77b49c330ee3a222784e95f69a79c96e25ac77c1a1ffe"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "91c5df8dd85ec539d4e3cedbb80248929659581f37b626f68373325428bc7da3"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "15cb976950d7bd74f0d5553eb1ad67585e267e388b736f24870faef1fa78d6d2"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/mh02-warm-horizon-combined.mid",
+      "bytes": 5790,
+      "sha256": "9a4e9ab945e6ecdd271dbbeaad3fed82493d1119b9cda3c132f2ea23ad2e95f0"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/principal_motif.mid",
+      "bytes": 730,
+      "sha256": "f3b59d8d509642e8f45679a1404ed1e49aaa90decc0f0ccfc1af939b90338a64"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "90040732f4f84a15049619586c6f6ee214d30dede7550948c41d53eb88a1b848"
+    },
+    {
+      "path": "midi/mh02-warm-horizon/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "04bebded39377cac856c0213ff54f13ef014a73316b42fa60f84b9f892888582"
+    },
+    {
+      "path": "midi/mh03-open-water/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "414da8612bdd2c847d041d506c49b172fc17b2bf042fa40db000bb765409f23c"
+    },
+    {
+      "path": "midi/mh03-open-water/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e5172d1f6566bf5746b743447031c0a89b3a2a67062ba1933032b8768ecc4128"
+    },
+    {
+      "path": "midi/mh03-open-water/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/mh03-open-water/mh03-open-water-combined.mid",
+      "bytes": 5770,
+      "sha256": "01f26d2096cd6b87b54b5745f3255d3b9a884ee5dec1955bdc147eae21653218"
+    },
+    {
+      "path": "midi/mh03-open-water/principal_motif.mid",
+      "bytes": 710,
+      "sha256": "db12f6433bc2dfccf4272bcfa1049943b14bccaf1d3a9c60e1bd3ceb817b7c7d"
+    },
+    {
+      "path": "midi/mh03-open-water/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "344c888b7de0581a1af969785226df18446580a1770d0f9784fbbe94ace5700c"
+    },
+    {
+      "path": "midi/mh03-open-water/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "30990716f54e24d430cebbd534e8132036ee61c8a385d8353fe79d7fb0083faf"
+    },
+    {
+      "path": "midi/mh04-return-home/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "972bf15dba456a504befcd9099af4eba2f30debafacd3820b6d82a7c9fd1ee26"
+    },
+    {
+      "path": "midi/mh04-return-home/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "395bfd316036713444e7a40283292540ca9ac1906cc7bb8d9cc9145d20bd629c"
+    },
+    {
+      "path": "midi/mh04-return-home/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/mh04-return-home/mh04-return-home-combined.mid",
+      "bytes": 5770,
+      "sha256": "73b718bd0d6fd398512bbddb5614f0175f5eed67a92f861ac3ce9491a5b18a0a"
+    },
+    {
+      "path": "midi/mh04-return-home/principal_motif.mid",
+      "bytes": 710,
+      "sha256": "2a88dcf647f77987f6fd08c89aa70bb035590ad3d7b85163bb1557c98ddf5e5e"
+    },
+    {
+      "path": "midi/mh04-return-home/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "1475d6f22f8184cdac0f942a7af9f9b41220a3508bf5bf5d1501806bc081a7e8"
+    },
+    {
+      "path": "midi/mh04-return-home/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da"
+    },
+    {
+      "path": "preview/melodic-house-chord-journeys-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "67ee2da0fb0049460a09bcae88a5394d61fb54a29ee85feda95fb050ffb88be8"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1137,
+      "sha256": "0eea472cbe3107f8e257b4b8d65c74a169d94c84d8e569a9ff3484fd810ea8ab"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3909,
+      "sha256": "25286481ca69f7c9c6dae4f1db5bff167acc512503801a40d4fd42269a5e56bb"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 231,
+      "sha256": "011d2a070f40820c67956cff1672a08d35a5a87728af130fe2d660fda3c2e708"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 240383,
+      "sha256": "74dd3f561f1b00cc14a2ed585846e6683000eda88525ce918667740e6dabfa33"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 225266,
+      "sha256": "cba78d41a0314e9630a30e367b1b904468d8e6c738028b0fda6939adb67bad98"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 221988,
+      "sha256": "c10b1c159389ac85edf81fc56907506856f7f0ca28bfe77d63714edbd8659576"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 193,
+      "sha256": "eeba311222b7eeb9a367b724384caaa1441f4d12e33fe5167e5b7b26688e2f84"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 68196,
+      "sha256": "e35a3f2e1866d9ab4ef967ffed3735bad3a43826b44215b1deae4085aba4b5b4"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 5984,
+      "sha256": "14c600fe7aba3ea48cd7c98400216eece2a73369389e092cf9ecdbd14f3bcc6f"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

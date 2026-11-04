@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+mh01,First Arc,pack-local equal-tempered pitch collection,D,122,4/4,480,32,61440,midi/mh01-first-arc/mh01-first-arc-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mh02,Warm Horizon,pack-local equal-tempered pitch collection,F,122,4/4,480,32,61440,midi/mh02-warm-horizon/mh02-warm-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mh03,Open Water,pack-local equal-tempered pitch collection,G#,122,4/4,480,32,61440,midi/mh03-open-water/mh03-open-water-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mh04,Return Home,pack-local equal-tempered pitch collection,D#,122,4/4,480,32,61440,midi/mh04-return-home/mh04-return-home-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

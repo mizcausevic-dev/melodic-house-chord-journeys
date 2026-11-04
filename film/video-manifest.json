@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/melodic-house-chord-journeys-simple-synth-preview.mp3",
+  "source_audio_sha256": "67ee2da0fb0049460a09bcae88a5394d61fb54a29ee85feda95fb050ffb88be8",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "f6c8b972514eeabd41ad17b1f9e61c655e2c71920aa44abea5355f1407953c7b",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
