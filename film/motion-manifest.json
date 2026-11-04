@@ -1,0 +1,26 @@
+{
+  "title": "Melodic House Chord Journeys",
+  "study": "mh01",
+  "bpm": 122,
+  "source_audio": "preview/melodic-house-chord-journeys-simple-synth-preview.mp3",
+  "source_audio_sha256": "67ee2da0fb0049460a09bcae88a5394d61fb54a29ee85feda95fb050ffb88be8",
+  "source_midi": "midi/mh01-first-arc/mh01-first-arc-combined.mid",
+  "source_midi_sha256": "f03fed7e9c1a4d283b2f1cb2e65e38b4c0b7a77c35ff2409f52d2fd1398f95ea",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3dac407cee36236171823a80d94577136074f939ebccefb37d4ee464b0e7e24e",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "f76211ba47ba5563ae080046d1a65188eae8f076d3c4b8ac3f515990623e8146",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "2808177aac7ad23e43850fbdc378f074373914175d7d58551610c5a82366413e",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
