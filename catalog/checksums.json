@@ -13,8 +13,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3909,
-      "sha256": "25286481ca69f7c9c6dae4f1db5bff167acc512503801a40d4fd42269a5e56bb"
+      "bytes": 3915,
+      "sha256": "e15848e2dbefd9669eb2b04798ad23feb4d5bdd82245dac463475c49f30fb63c"
     },
     {
       "path": "art/cover-provenance.json",
@@ -443,8 +443,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 68196,
-      "sha256": "e35a3f2e1866d9ab4ef967ffed3735bad3a43826b44215b1deae4085aba4b5b4"
+      "bytes": 68202,
+      "sha256": "69ee86559f86e9ec9a3aeb4d21e93312a3cb2f31709b1d2320485caed01caa92"
     },
     {
       "path": "tools/polish_release.py",
