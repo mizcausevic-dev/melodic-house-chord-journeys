@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/melodic-house-chord-journeys-midi.zip",
-      "bytes": 29651,
-      "sha256": "65fb6b088488c0a3fef90235d2e054f42e2f18d14196a6a5782b2df5f232d2eb"
+      "bytes": 30638,
+      "sha256": "041d22baa76a06970db5b4155d0202b6a311ff55f547ed0f96a33cb238908e40"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9867,
-      "sha256": "e2e78e8634998333dbcb4ee4194e7ad47c0a05ddbe92d2eff185c42dc372795b"
+      "bytes": 10057,
+      "sha256": "9adc42714cf6d85b61603ffb94e6ef23fdc76806bbe286c4840708b69d04a0c9"
     },
     {
       "path": "midi/mh01-first-arc/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 798,
       "sha256": "5989ca918621028ed2ea5c0fae47876b819aef9ceb588ae80e1992bfa4297ee8"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4073,
-      "sha256": "2d8974fe52a1163f67c159326edff489fc64969c816a821265c032c84529b4f1"
+      "bytes": 4188,
+      "sha256": "f627b50a3c160c9789784c503e70ba7c4bc1a6d807559879981ed0ffb5c2eba8"
     },
     {
       "path": "REVISION.md",
